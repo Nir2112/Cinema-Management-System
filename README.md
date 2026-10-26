@@ -61,9 +61,7 @@ Make sure you have [Node.js](https://nodejs.org/) and [MongoDB](https://www.mong
 Configure the API Instance:
 Open the src/api/axiosInstance.js file. You must replace the placeholder URL with your actual local IPv4 address
 
-    ```bash
-   npm run dev
-   ```
+npm run dev
 (or npm start depending on your setup)
 
 4. **Access the App**
